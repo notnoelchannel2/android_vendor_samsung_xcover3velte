@@ -54,18 +54,14 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/xcover3velte/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/xcover3velte/proprietary/lib/hw/gralloc.exynos3.so:system/lib/hw/gralloc.exynos3.so \
     vendor/samsung/xcover3velte/proprietary/lib/hw/sensors.universal3475.so:system/lib/hw/sensors.universal3475.so \
-    vendor/samsung/xcover3velte/proprietary/lib/libHpr_RecFace_dl_v1.0.so:system/lib/libHpr_RecFace_dl_v1.0.so \
-    vendor/samsung/xcover3velte/proprietary/lib/libHpr_RecGAE_cvFeature_v1.0.so:system/lib/libHpr_RecGAE_cvFeature_v1.0.so \
-    vendor/samsung/xcover3velte/proprietary/lib/libHpr_TaskFaceClustering_hierarchical_v1.0.so:system/lib/libHpr_TaskFaceClustering_hierarchical_v1.0.so \
     vendor/samsung/xcover3velte/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
     vendor/samsung/xcover3velte/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
     vendor/samsung/xcover3velte/proprietary/lib/libcsc.so:system/lib/libcsc.so \
-    vendor/samsung/xcover3velte/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
+    vendor/samsung/xcover3velte/proprietary/lib/libexynoscameraexternal.so:system/lib/libexynoscameraexternal.so \
     vendor/samsung/xcover3velte/proprietary/lib/libexynosgscaler.so:system/lib/libexynosgscaler.so \
     vendor/samsung/xcover3velte/proprietary/lib/libexynosscaler.so:system/lib/libexynosscaler.so \
     vendor/samsung/xcover3velte/proprietary/lib/libexynosutils.so:system/lib/libexynosutils.so \
     vendor/samsung/xcover3velte/proprietary/lib/libexynosv4l2.so:system/lib/libexynosv4l2.so \
-    vendor/samsung/xcover3velte/proprietary/lib/libfloatingfeature.so:system/lib/libfloatingfeature.so \
     vendor/samsung/xcover3velte/proprietary/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
     vendor/samsung/xcover3velte/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/xcover3velte/proprietary/lib/libril.so:system/lib/libril.so \
